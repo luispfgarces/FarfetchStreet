@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/OutPost/Resources/Scenes/NYC6_Scene.unity
+- path: Assets/Farfetch Street.unity
   isLoaded: 1
   isActive: 1
