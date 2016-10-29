@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OutPost/Resources/Scenes/NYC6_Scene.unity
+  isLoaded: 1
+  isActive: 1
